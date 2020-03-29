@@ -1,7 +1,9 @@
 <template>
   <div id="app">
+    <img src="./assets/text-logo.png" width=600>
+    <br><br>
     <div id="nav">
-      <router-link to="/">Home</router-link> |
+      <router-link to="/">Documents</router-link> |
       <router-link to="/about">About</router-link>
     </div>
     <main>
